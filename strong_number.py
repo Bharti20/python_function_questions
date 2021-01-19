@@ -11,6 +11,6 @@ while(x > 0):
     Sum = Sum + Factorial
     x = x // 10    
 if (Sum == Number):
-    print("strong number hai")
+    print("strong number hai") 
 else:
     print("not strong number")
